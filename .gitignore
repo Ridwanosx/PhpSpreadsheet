@@ -1,13 +1,12 @@
-/tests/codeCoverage
-/analysis
-/vendor/
-/phpunit.xml
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-## IDE support
-*.buildpath
-*.project
-/.settings
-/.idea
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 
-## mkdocs output
-/site
